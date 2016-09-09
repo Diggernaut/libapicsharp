@@ -6,7 +6,7 @@ This repo still in development.
 
 #### install:
 
-go get github.com/Diggernaut/libapigo
+PM> Install-Package DiggernautAPI
 
 #### usage:
 ```c#
